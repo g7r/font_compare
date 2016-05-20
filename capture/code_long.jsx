@@ -1,5 +1,6 @@
 
 	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+	абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ
 	1Il|L 80Oo 5S ([{<>}]) \*+-–—/!?:;.,@=~^%$ __# "q" 'q' “q” ‘q’
 	±…×·
 
